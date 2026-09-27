@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Business Growth & Operations Analytics Dashboard
 ### Employability Platform — Power BI | SQL | DAX | Python
 
@@ -153,3 +154,7 @@ SQL · Data Modeling (star schema) · DAX · Power BI · Business Analysis · KP
 4. Open Power BI Desktop → follow `docs/02_PowerBI_Dashboard_Build_Guide.md` step by step,
    importing `data/Employability_Platform_Dataset.xlsx` and pasting in the measures from
    `dax/dax_measures.md`
+=======
+# employability_anlytics_project
+emplability analystics dashboard using power bi and employability platform dataset
+>>>>>>> 5e3e144c064aaed39ecb3f28087ff01382556ddd
