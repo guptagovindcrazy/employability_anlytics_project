@@ -1,0 +1,13 @@
+Program_ID,Program_Name,Program_Category,Start_Date,End_Date,Fee,Capacity
+PRG001,Full Stack Web Development,Technical,2024-01-15,2024-03-25,24999,400
+PRG002,Data Analytics with Power BI & SQL,Technical,2024-01-15,2024-03-25,19999,350
+PRG003,Data Science & Machine Learning,Technical,2024-01-15,2024-03-25,32999,300
+PRG004,Cloud Computing (AWS/Azure),Technical,2024-01-15,2024-03-25,27999,250
+PRG005,Digital Marketing Mastery,Domain,2024-01-15,2024-03-25,14999,350
+PRG006,Banking & Finance Job Prep,Domain,2024-01-15,2024-03-25,12999,300
+PRG007,UI/UX Design Foundations,Technical,2024-01-15,2024-03-25,17999,200
+PRG008,Core Engineering Interview Prep,Domain,2024-01-15,2024-03-25,9999,400
+PRG009,Aptitude & Reasoning Mastery,Aptitude,2024-01-15,2024-03-25,4999,600
+PRG010,Communication & Soft Skills Bootcamp,Soft Skills,2024-01-15,2024-03-25,5999,550
+PRG011,Resume & Interview Bootcamp,Soft Skills,2024-01-15,2024-03-25,3999,500
+PRG012,Business Analytics Certification,Domain,2024-01-15,2024-03-25,21999,220

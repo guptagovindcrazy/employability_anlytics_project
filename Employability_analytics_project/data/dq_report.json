@@ -1,0 +1,23 @@
+{
+  "students": {
+    "total_raw_rows": 22132,
+    "missing_gender": 264,
+    "missing_age": 177,
+    "duplicate_rows": 132,
+    "invalid_or_missing_dates": 88,
+    "age_outliers": 66,
+    "broken_college_refs": 44
+  },
+  "assessments": {
+    "total_raw_rows": 19666,
+    "negative_scores": 29,
+    "out_of_range_scores_gt_100": 19,
+    "duplicate_rows": 78,
+    "naturally_missing_scores_incomplete_attempts": 3490
+  },
+  "outcomes": {
+    "total_raw_rows": 4268,
+    "salary_unit_outliers": 9,
+    "missing_company_category_for_placed": 7
+  }
+}
